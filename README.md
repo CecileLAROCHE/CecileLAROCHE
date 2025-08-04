@@ -4,4 +4,6 @@
 
   <p align="center">********</p>
 
-![CecileLAROCHE's GitHub stats](https://github-readme-stats.vercel.app/api?username=CecileLAROCHE&theme=tokyonight&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CecileLAROCHE&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+</p>
